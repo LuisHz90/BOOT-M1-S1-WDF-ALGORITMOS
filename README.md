@@ -33,3 +33,24 @@ Al mismo tiempo, te dan 3 paquetes promocionales:
 Te denotan que no se acumulan paquetes promocionales. Se evaluará siempre la pizza de mayor tamaño.
 
 Determina, de acuerdo a las diferentes decisiones de sus usuarios, ¿Cuánto pagarían? Crea el procedimiento respectivo para integrarlo a la aplicación.
+
+Caso 1 
+Carrito: 
+Pizza 1 ingrediente ($100) y Cocacola (600 ml $18)
+Total $118 
+Total - 10% 
+Total final = $106.20
+
+Caso 2 
+Carrito: 
+Pizza 2 ingrediente ($150) y Cocacola (600 ml $18)
+Total $168 
+Total - 15% 
+Total final = $142.80
+
+Caso 3 
+Carrito: 
+Pizza 3 ingrediente ($200) y Cocacola (1 lt $25)
+Total $225
+Total - 20% 
+Total final = $180
